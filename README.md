@@ -22,7 +22,7 @@ An AI-powered bird feeder monitor built for Raspberry Pi that uses TensorFlow to
 
 A companion web application for Twitchr that allows users to view and manage bird sightings and monitoring data.
 
-[![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square\&logo=github)](https://github.com/gracelilykelly/twitchr-app)
+[![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square\&logo=github)](https://github.com/gracielilykelly/twitchr-app)
 
 **Tech:** Express.js, Handlebars
 
@@ -32,7 +32,7 @@ A companion web application for Twitchr that allows users to view and manage bir
 
 A browser-based submarine adventure game where players battle deep-sea creatures and explore the ocean depths.
 
-[![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square\&logo=github)](https://github.com/gracelilykelly/leviathans-lair)
+[![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square\&logo=github)](https://github.com/gracielilykelly/leviathans-lair)
 [![Demo](https://img.shields.io/badge/Live_Demo-4285F4?style=flat-square\&logo=googlechrome\&logoColor=white)](https://leviathans-lair.vercel.app/)
 
 **Tech:** JavaScript
@@ -43,7 +43,7 @@ A browser-based submarine adventure game where players battle deep-sea creatures
 
 Upload an image and automatically generate a colour palette from its contents.
 
-[![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square\&logo=github)](https://github.com/gracelilykelly/palette-picker)
+[![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square\&logo=github)](https://github.com/gracielilykelly/palette-picker)
 [![Demo](https://img.shields.io/badge/Live_Demo-4285F4?style=flat-square\&logo=googlechrome\&logoColor=white)](https://palette-picker-app.vercel.app/)
 
 **Tech:** TypeScript
