@@ -12,7 +12,7 @@ When I'm not coding, you'll probably find me rolling initiative in a Dungeons & 
 
 An AI-powered bird feeder monitor built for Raspberry Pi that uses TensorFlow to identify visiting bird species.
 
-[![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square\&logo=github)](https://github.com/gracelilykelly/twitchr)
+[![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square\&logo=github)](https://github.com/gracielilykelly/twitchr)
 
 **Tech:** Python, TensorFlow, Raspberry Pi
 
