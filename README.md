@@ -60,17 +60,6 @@ A typing speed test application that helps users improve their typing skills usi
 
 ---
 
-### 🎭 Design Portfolio
-
-A collection of graphic design and creative projects.
-
-[![View Portfolio](https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/gracielilykelly/design-portfolio/blob/main/design-portfolio.pdf)
-
-
-
----
-
-
 ## 🛠️ Tech Stack
 
 ### Frontend
